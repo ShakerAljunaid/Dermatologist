@@ -1,0 +1,31 @@
+Acne Closed Comedo
+Acne Cystic
+Acne Excoriated
+Acne Infantile
+Acne Open Comedo
+Acne Pustular
+Acne Scar
+Dyshidrotic eczema
+Eczema Acute
+Eczema Areola
+Eczema Asteatotic
+Eczema Chronic
+Eczema Impetiginized
+Eczema Nummular
+Eczema Subacute
+Eczema Trunk Generalized
+Acute Paronychia
+Chronic Paronychia
+Distal Subungual Onychomycosis
+Eczema nail
+Habit Tic Deformity
+Hang Nail
+Median Nail Dystrophy
+Mucous Cyst
+Onycholysis
+Pseudomonas
+Psoriasis
+Ridging Beading
+Trauma
+Not human skin
+Healthy skin
